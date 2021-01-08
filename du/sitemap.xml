@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>https://fkalkman.github.io/du/products/iphone-12-mini-64gb/</loc>
+    <lastmod>2020-09-30T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fkalkman.github.io/du/products/iphone-12-mini-128gb/</loc>
+    <lastmod>2020-09-29T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fkalkman.github.io/du/products/iphone-12-mini-256gb/</loc>
+    <lastmod>2020-09-28T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fkalkman.github.io/du/blog/post-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -78,36 +93,6 @@
   </url>
   
   <url>
-    <loc>https://fkalkman.github.io/du/products/product-7/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fkalkman.github.io/products/product-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="du"
-                href="https://fkalkman.github.io/du/products/product-7/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://fkalkman.github.io/du/products/product-8/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fkalkman.github.io/products/product-8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="du"
-                href="https://fkalkman.github.io/du/products/product-8/"
-                />
-  </url>
-  
-  <url>
     <loc>https://fkalkman.github.io/du/products/product-9/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
@@ -124,21 +109,6 @@
                 rel="alternate"
                 hreflang="du"
                 href="https://fkalkman.github.io/du/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://fkalkman.github.io/du/products/product-6/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fkalkman.github.io/products/product-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="du"
-                href="https://fkalkman.github.io/du/products/product-6/"
                 />
   </url>
   
