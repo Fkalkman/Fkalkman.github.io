@@ -19,8 +19,6 @@
   
   <link rel="stylesheet" href="https://fkalkman.github.io/plugins/slick/slick.min.css ">
   
-  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css ">
-  
 
   <!-- Main Stylesheet -->
   
@@ -89,7 +87,6 @@
         
         
       </div>
-      <button class="cart snipcart-checkout"><i class="tf-ion-android-cart"></i><span class="badge badge-primary snipcart-items-count"></span></button>
     </nav>
   </div>
 </header>
@@ -126,25 +123,21 @@
       </div>
       <div class="col-lg-6 col-md-7 offset-lg-1">
         <h1 class="mb-4">Iphone 12 pro 128GB</h1>
-        <p><strong>Colors: </strong>Goud, Grafiet, Oceaan Blauw, Zilver</p>
+        <p><strong>Colors: </strong>
+        <select name="color" id="color">
+          
+          <option>Goud</option>
+          
+          <option>Grafiet</option>
+          
+          <option>Oceaan blauw</option>
+          
+          <option>Zilver</option>
+          
+        </select>
         <p><strong>Sizes: </strong>6,1 Inch</p>
-        <p class="price py-4">€1227,-
-        
-        </p>
-        <button class="snipcart-add-item btn btn-main mb-5" 
-          data-item-id="iphone-12-pro-128gb__1227,-"
-          data-item-name="Iphone 12 pro 128GB"
-          data-item-image="https://fkalkman.github.io/images/Products/Apple-iPhone-12-Pro-64GB-Goud.jpg"
-          data-item-price="1227,-" data-item-url="https://fkalkman.github.io/du/products/iphone-12-pro-128gb/" 
-          
-          data-item-custom1-name="Choose Color"
-          data-item-custom1-options="Goud|Grafiet|Oceaan Blauw|Zilver"
-          
-          
-          data-item-custom2-name="Choose Size"
-          data-item-custom2-options="6,1 Inch"
-          >Add to Cart
-        </button>
+        <p class="price py-4">€1227,-</p>
+        <a class="btn btn-main mb-5" itemId="orderNow" href="" target="_blank">Bestel nu</a>
         <div class="content"><p>De iPhone 12 pro beschikt over de nieuwste snelste chip in een smartphone, heeft een nieuwe pro-camerasysteem waarmee je de mooiste foto’s met weinig licht maakt en Super Retina XDR-display. Dit betekent minder rand en meer scherm.</p>
 <p>Let op: De iPhone 12 word zonder oortjes en adapter geleverd.</p>
 </div>
@@ -196,8 +189,6 @@
 <script src="https://fkalkman.github.io/plugins/bootstrap/bootstrap.min.js"></script>
 
 <script src="https://fkalkman.github.io/plugins/slick/slick.min.js"></script>
-
-<script src="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"></script>
 
 
 
