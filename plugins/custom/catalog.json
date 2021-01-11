@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": "iPhone 12 64GB",
+      "title": "Apple iPhone 12 - 64GB",
+      "prices": [
+        { "price": "635", "color": "red" },
+        { "price": "565", "color": "white" }
+      ]
+    }
+  ]
+}
