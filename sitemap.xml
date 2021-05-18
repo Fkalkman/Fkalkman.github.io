@@ -1,18 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://fkalkman.github.io/du/sitemap.xml</loc>
-    
-      <lastmod>2020-10-03T11:22:16+06:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://fkalkman.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://fkalkman.github.io/products/</loc>
+    <lastmod>2020-10-03T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/</loc>
+    <lastmod>2020-10-03T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-64gb/</loc>
+    <lastmod>2020-10-03T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-128gb/</loc>
+    <lastmod>2020-10-02T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-256gb/</loc>
+    <lastmod>2020-10-01T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-mini-64gb/</loc>
+    <lastmod>2020-09-30T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-mini-128gb/</loc>
+    <lastmod>2020-09-29T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-mini-256gb/</loc>
+    <lastmod>2020-09-28T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-pro-128gb/</loc>
+    <lastmod>2020-09-27T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-pro-256gb/</loc>
+    <lastmod>2020-09-27T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-pro-512gb/</loc>
+    <lastmod>2020-09-27T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-pro-max-128gb/</loc>
+    <lastmod>2020-09-27T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-pro-max-256gb/</loc>
+    <lastmod>2020-09-27T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/products/iphone-12-pro-max-512gb/</loc>
+    <lastmod>2020-09-27T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/blog/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/blog/post-1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/blog/post-2/</loc>
+    <lastmod>2019-10-16T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/blog/post-3/</loc>
+    <lastmod>2019-10-15T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/blog/post-4/</loc>
+    <lastmod>2019-10-14T11:22:16+06:00</lastmod>
+  </url><url>
+    <loc>https://fkalkman.github.io/privacy-policy/</loc>
+  </url><url>
+    <loc>https://fkalkman.github.io/categories/</loc>
+  </url><url>
+    <loc>https://fkalkman.github.io/contact/</loc>
+  </url><url>
+    <loc>https://fkalkman.github.io/tags/</loc>
+  </url><url>
+    <loc>https://fkalkman.github.io/terms-conditions/</loc>
+  </url>
+</urlset>

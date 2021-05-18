@@ -1,83 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All Apple products on Frank&#39;s Amazing Products</title>
+    <title>Alle Apple producten on Frank&#39;s Amazing Products</title>
     <link>https://fkalkman.github.io/products/</link>
-    <description>Recent content in All Apple products on Frank&#39;s Amazing Products</description>
+    <description>Recent content in Alle Apple producten on Frank&#39;s Amazing Products</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
-    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://fkalkman.github.io/products/index.xml" rel="self" type="application/rss+xml" />
+    <language>NL-nl</language>
+    <copyright>(C) 2021 F. Kalkman</copyright>
+    <lastBuildDate>Sat, 03 Oct 2020 11:22:16 +0600</lastBuildDate><atom:link href="https://fkalkman.github.io/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple Watch</title>
-      <link>https://fkalkman.github.io/products/product-1/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <title>Iphone 12 64GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-64gb/</link>
+      <pubDate>Sat, 03 Oct 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://fkalkman.github.io/products/product-1/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>https://fkalkman.github.io/products/iphone-12-64gb/</guid>
+      <description>De iPhone 12 is de recentste smartphone die Apple heeft uitgebracht. En heeft prachtige 6,1 inch Super Retina XDR-display. Door dit scherm wordt alles nog scherper en realistischer.</description>
     </item>
     
     <item>
-      <title>Galaxy Watch</title>
-      <link>https://fkalkman.github.io/products/product-2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <title>Iphone 12 128GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-128gb/</link>
+      <pubDate>Fri, 02 Oct 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://fkalkman.github.io/products/product-2/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>https://fkalkman.github.io/products/iphone-12-128gb/</guid>
+      <description>De iPhone 12 is de recentste smartphone die Apple heeft uitgebracht. En heeft prachtige 6,1 inch Super Retina XDR-display. Door dit scherm wordt alles nog scherper en realistischer.</description>
     </item>
     
     <item>
-      <title>Motorola Watch</title>
-      <link>https://fkalkman.github.io/products/product-4/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <title>Iphone 12 256GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-256gb/</link>
+      <pubDate>Thu, 01 Oct 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://fkalkman.github.io/products/product-4/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>https://fkalkman.github.io/products/iphone-12-256gb/</guid>
+      <description>De iPhone 12 is de recentste smartphone die Apple heeft uitgebracht. En heeft prachtige 6,1 inch Super Retina XDR-display. Door dit scherm wordt alles nog scherper en realistischer.</description>
     </item>
     
     <item>
-      <title>OnePlus Watch</title>
-      <link>https://fkalkman.github.io/products/product-7/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <title>Iphone 12 mini 64GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-mini-64gb/</link>
+      <pubDate>Wed, 30 Sep 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://fkalkman.github.io/products/product-7/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>https://fkalkman.github.io/products/iphone-12-mini-64gb/</guid>
+      <description>De iPhone 12 mini is een kleine smartphone die Apple heeft uitgebracht maar wel ongelofelijk krachtig. En heeft prachtige 6,1 inch Super Retina XDR-display.</description>
     </item>
     
     <item>
-      <title>Oppo Watch</title>
-      <link>https://fkalkman.github.io/products/product-8/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <title>Iphone 12 mini 128GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-mini-128gb/</link>
+      <pubDate>Tue, 29 Sep 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://fkalkman.github.io/products/product-8/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>https://fkalkman.github.io/products/iphone-12-mini-128gb/</guid>
+      <description>De iPhone 12 mini is een kleine smartphone die Apple heeft uitgebracht maar wel ongelofelijk krachtig. En heeft prachtige 6,1 inch Super Retina XDR-display.</description>
     </item>
     
     <item>
-      <title>Realme Watch</title>
-      <link>https://fkalkman.github.io/products/product-6/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <title>Iphone 12 mini 256GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-mini-256gb/</link>
+      <pubDate>Mon, 28 Sep 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://fkalkman.github.io/products/product-6/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>https://fkalkman.github.io/products/iphone-12-mini-256gb/</guid>
+      <description>De iPhone 12 mini is een kleine smartphone die Apple heeft uitgebracht maar wel ongelofelijk krachtig. En heeft prachtige 6,1 inch Super Retina XDR-display.</description>
     </item>
     
     <item>
-      <title>Redmi Watch</title>
-      <link>https://fkalkman.github.io/products/product-5/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <title>Iphone 12 pro 128GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-pro-128gb/</link>
+      <pubDate>Sun, 27 Sep 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://fkalkman.github.io/products/product-5/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>https://fkalkman.github.io/products/iphone-12-pro-128gb/</guid>
+      <description>De iPhone 12 pro beschikt over de nieuwste snelste chip in een smartphone, heeft een nieuwe pro-camerasysteem waarmee je de mooiste foto’s met weinig licht maakt en Super Retina XDR-display.</description>
     </item>
     
     <item>
-      <title>Xiaomi Watch</title>
-      <link>https://fkalkman.github.io/products/product-3/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <title>Iphone 12 pro 256GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-pro-256gb/</link>
+      <pubDate>Sun, 27 Sep 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://fkalkman.github.io/products/product-3/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+      <guid>https://fkalkman.github.io/products/iphone-12-pro-256gb/</guid>
+      <description>De iPhone 12 pro beschikt over de nieuwste snelste chip in een smartphone, heeft een nieuwe pro-camerasysteem waarmee je de mooiste foto’s met weinig licht maakt en Super Retina XDR-display.</description>
+    </item>
+    
+    <item>
+      <title>Iphone 12 pro 512GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-pro-512gb/</link>
+      <pubDate>Sun, 27 Sep 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://fkalkman.github.io/products/iphone-12-pro-512gb/</guid>
+      <description>De iPhone 12 pro beschikt over de nieuwste snelste chip in een smartphone, heeft een nieuwe pro-camerasysteem waarmee je de mooiste foto’s met weinig licht maakt en Super Retina XDR-display.</description>
+    </item>
+    
+    <item>
+      <title>Iphone 12 pro max 128GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-pro-max-128gb/</link>
+      <pubDate>Sun, 27 Sep 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://fkalkman.github.io/products/iphone-12-pro-max-128gb/</guid>
+      <description>De iPhone 12 pro max beschikt over de nieuwste snelste chip in een smartphone, heeft een nieuwe pro-camerasysteem waarmee je de mooiste foto’s met weinig licht maakt en Super Retina XDR-display.</description>
+    </item>
+    
+    <item>
+      <title>Iphone 12 pro max 256GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-pro-max-256gb/</link>
+      <pubDate>Sun, 27 Sep 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://fkalkman.github.io/products/iphone-12-pro-max-256gb/</guid>
+      <description>De iPhone 12 pro max beschikt over de nieuwste snelste chip in een smartphone, heeft een nieuwe pro-camerasysteem waarmee je de mooiste foto’s met weinig licht maakt en Super Retina XDR-display.</description>
+    </item>
+    
+    <item>
+      <title>Iphone 12 pro max 512GB</title>
+      <link>https://fkalkman.github.io/products/iphone-12-pro-max-512gb/</link>
+      <pubDate>Sun, 27 Sep 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://fkalkman.github.io/products/iphone-12-pro-max-512gb/</guid>
+      <description>De iPhone 12 pro max beschikt over de nieuwste snelste chip in een smartphone, heeft een nieuwe pro-camerasysteem waarmee je de mooiste foto’s met weinig licht maakt en Super Retina XDR-display.</description>
     </item>
     
   </channel>
